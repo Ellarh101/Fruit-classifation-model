@@ -17,3 +17,45 @@ Supply Chain: sorting and monitoring perishable goods.
 Python 🐍
 TensorFlow / Keras
 NumPy, Matplotlib
+
+## 🚀 Getting Started
+
+### Installation
+Clone this repository and install the dependencies:
+
+```bash
+git clone https://github.com/your-username/fruit-classification.git
+cd fruit-classification
+pip install -r requirements.txt
+
+📊 Results
+
+Here’s a sample output from the model’s predictions:
+<p align="center"> <img src="assets/fruit_classifier_output.png" alt="Fruit Classification Output" width="500"/> </p>
+📁 Project Structure
+.
+├── assets/                  # Images and screenshots
+├── data/                    # Dataset (not included in repo)
+├── models/                  # Saved trained models
+├── notebooks/               # Jupyter notebooks
+├── requirements.txt         # Dependencies
+├── README.md                # Project description
+└── fruit_classification.py  # Main script (if any)
+
+📌 Usage
+
+Run the notebook or script to train the model:
+
+python fruit_classification.py
+
+🧠 Technologies Used:
+    Python
+    TensorFlow / Keras
+    OpenCV
+    Matplotlib / Seaborn
+
+📬 Contact
+
+Created by Emmanuella
+– feel free to connect!
+
